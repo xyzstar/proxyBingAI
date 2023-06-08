@@ -1,7 +1,7 @@
 package main
 
 import (
-	"adams549659584/go-proxy-bingai/api"
+	"xyzstar/proxyBingAI/api"
 	"log"
 	"net/http"
 	"os"
